@@ -1,0 +1,34 @@
+.home-container {
+    background-image: url('58ea01ca3026662e8e5d291ac5600240.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+  }
+  
+  .home-container h1 {
+    color: #343a40;
+  }
+  
+  .home-container p {
+    color: #6c757d;
+  }
+  
+  .home-container .btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+  }
+  
+  .home-container .btn-primary:hover {
+    background-color: #0056b3;
+    border-color: #0056b3;
+  }
+  
+  .rounded-container {
+    background-color: whitesmoke;
+    border: 2px solid #6e6e6e;
+    border-radius: 20px;
+    padding: 30px;
+
+}
